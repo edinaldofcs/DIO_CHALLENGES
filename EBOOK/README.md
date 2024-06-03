@@ -5,7 +5,7 @@
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o bootcamp Santander 2024 - Fundamentos de IA para Devs, como parte de um dos desafios, na plataforma [DIO](https://dio.me)
 
 
-<a href="https://github.com/edinaldofcs/DIO_CHALLENGES/blob/desenvolvimento/EBOOK/output/ebook%20-%20automa%C3%A7%C3%B5es%20com%20python.pdf" title="View PDF"> 📕Clique aqui para ler</a>
+<a href="https://github.com/edinaldofcs/DIO_CHALLENGES/blob/main/EBOOK/output/ebook%20-%20automa%C3%A7%C3%B5es%20com%20python.pdf" title="View PDF"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 - [ChatGPT](https://chat.openai.com/) 
